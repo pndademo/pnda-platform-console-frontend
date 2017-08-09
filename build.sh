@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Please check pnda-build/ for the build products
-
+#
 VERSION=${1}
 
 function error {
